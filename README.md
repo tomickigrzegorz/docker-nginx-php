@@ -19,7 +19,7 @@ or
 npm install
 ```
 
-#### How to start the process of building the environment
+### How to start the process of building the environment
 In the created folder there is docker-compose.yml
 Start the console and ...
 ```
